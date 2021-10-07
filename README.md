@@ -1,5 +1,5 @@
 ## Saeed Dehqan
-<img src="https://github.com/saeeddhqan/page/raw/main/1D9C833D_8E.jpeg">
+<img src="https://github.com/saeeddhqan/page/raw/main/1D9C833D_8E.jpeg" height="200">
 
 ### Bio
 
