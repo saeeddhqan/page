@@ -1,5 +1,5 @@
 ## Saeed Dehqan
-<img src="https://github.com/saeeddhqan/page/raw/main/1D9C833D_8E.jpeg" height="200">
+<img src="https://github.com/saeeddhqan/page/raw/main/1D9C833D_8E.jpeg" height="220">
 
 ### Bio
 
@@ -20,7 +20,7 @@ In my free time, I usually serve my time on the following topics.
 * Set theory
 * Chaos theory
 * Game theory
-* Critisicm phillosophy
+* Critical philosophy
 * Linear Algebra
 
 ### Contact and Vitae
