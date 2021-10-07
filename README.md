@@ -15,12 +15,11 @@ He is passionate about Natural Language Processing and uses it for Cybersecurity
 purposes.
 
 ### Personal interests
-In my free time, I usually serve my time on the following topics.
+In my free time, I usually serve my time on the following topics:
 * Logic
 * Set theory
-* Chaos theory
-* Game theory
 * Critical philosophy
+* Schopenhauer's works
 * Linear Algebra
 
 ### Contact and Vitae
